@@ -29,7 +29,7 @@ bike security</p>
 
 <p>First things first, we must gain sufficient knowledge on the problem we're 
 trying to tackle ourselves. We spend a week or so learning about bikes and bike 
-security. For our results, check our research paper <a href="https://github.com/Enigmamemory/Lock-et/tree/master/research%20paper">folder.</a>
+security. For our results, check our research paper <a href="https://github.com/Enigmamemory/Lock-et/tree/master/research%20paper">folder.</a></p>
 
 <h2>Brainstorming: Product/Market Fit</h2>
 
