@@ -30,6 +30,7 @@ bike security</p>
 <p>First things first, we must gain sufficient knowledge on the problem we're 
 trying to tackle ourselves. We spend a week or so learning about bikes and bike 
 security. For our results, check our research paper <a href="https://github.com/Enigmamemory/Lock-et/tree/master/research%20paper">folder.</a></p>
+<br>
 
 <h2>Brainstorming: Product/Market Fit</h2>
 
@@ -42,7 +43,18 @@ our customer segment's jobs, pains, and gains, then match them with a product
 that corrosponds to them.</p>
 
 <p>For more information on the Product/Market Fit, <a href="https://www.youtube.com/watch?v=sSDvwQiPtgc">here's</a> a short video.</p>
+<br>
 
+<h2>Verifying the Customer Segment: Conducting Interviews</h2>
+
+<p>To verify that we've correctly identified the pains and gains of our current 
+customer segment, we went out on the streets and conducted interviews with 
+various individuals that fit towards our demographic. These interviews will 
+seek to identify what are the subjects' pains and gains and whether or not 
+our value proposition would address them.</p>
+
+<p>For more information on our interviews, check out our interviews <a href="https://github.com/Enigmamemory/Lock-et/tree/master/interviews"folder.</a></p>
+<br>
 
 
 </body>
