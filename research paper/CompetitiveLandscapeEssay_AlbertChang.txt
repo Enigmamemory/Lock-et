@@ -1,0 +1,44 @@
+Albert Chang										EID101D
+Competitive Landscape Homework
+	People choose to bike because it is a healthy exercise, is more environmental friendly 
+than other means of transportation, and require less incremental payments to support. Bicycle 
+commuting is becoming more common. From 2005 to 2013, the states on average show 46% increase 
+in the share of people commuting by bicycle with higher concentration in places like 
+Pennsylvania and Massachusetts which increase by more than 100%. The customer segment that I 
+looked at is the city residents who chose to commute by bicycle. From the group, there are 
+those that value their bicycles for monetary circumstances such as a job of running deliveries 
+or for recreational usage such as touring the city. Troubles that they get into are road 
+accidents and theft of parts or just the whole bicycle. Around $350 million in bicycles are 
+stolen in the United States each year however the National Bike Registry and FBI cannot 
+account for all stolen bicycles so the number should be higher. Bicycles not kept indoors are 
+exposed to danger. For the owners who value their bicycles, more protection is needed to deter 
+these people from trouble. 
+	Many smart bike locks are already developed or being developed however the features are 
+more toward convenience of the owner and approved users to unlock the bicycle. Bluetooth allow 
+for the locks to connect to phones to decide whether to lock or unlock. The lock is tracked in 
+order to locate the bicycle. LoopLock is an o-lock which means it prevents the wheel from 
+spinning. This product utilizes solar energy to power itself. BitLock is a u-lock which means 
+the shape is made to limit space for leveraging and the mechanism resist hammers, chisels, and 
+such. This product has a backup unlocking system in case the phone is momentarily not usable. A 
+sequence of button, previously set by phone, is pressed to unlock the bicycle. Skylock is a 
+u-lock. This product alert people of the user’s trusted network of crashes that it detect with 
+an accelerometer. The other use of this accelerometer is to detect shake of the bicycle 
+signaling theft. LINKA is an o-lock that has most of the features mentioned. It has a 100dB 
+siren and lasting battery that could be recharge. There is a lasso chain made for this product 
+to park the bicycle. Mobiloc is a cable lock which means it is versatile enough to tie down 
+removable parts like the seat. 
+	The problem of stolen bicycle parts has been approached mechanically rather than 
+electrically. Pinhead Locks made locks for all major bicycle components. The locks are to 
+remain on the bicycle permanently after installation and require special wrenches to tamper 
+with. Their customer buys the lockset which comes with its own “key”. 
+	Users are fine with using Pinhead products to secure parts. It functions only as a 
+deterrent as professionals will have ways to get to the bicycle no matter what one does. 
+Securing bolts and nuts is too much of a costly venture. Accessories that would add up to cost 
+more than the bicycle itself are repelling to people. People who are not buying more specialize 
+tools learn to make do with simpler arrangements. Secondary mini u-lock, cable lock, and 
+others can be use in conjunction to secure wheels and other parts. 
+	Communication with more common day cyclists who are not putting their opinion online 
+is needed. We need to know if the potential customers feel safer with electrical locks than 
+mechanical locks and if they think their bicycle is at risk. Decisions on features to 
+implement on the lock interlock with many other research topics. Cost calculations need to 
+agree with consumer expectations. 
