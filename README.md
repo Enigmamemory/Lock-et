@@ -26,7 +26,7 @@ bike security</p>
 
 <p>First things first, we must gain sufficient knowledge on the problem we're 
 trying to tackle ourselves. We spend a week or so learning about bikes and bike 
-security. For our results, check our research paper <a href="https://github.com/Enigmamemory/Lock-et/tree/master/research%20paper">folder.</a></p>
+security. For our results, check our research paper <a href="https://github.com/Enigmamemory/Lock-et/tree/master/research%20paper" target="_blank">folder.</a></p>
 <br>
 
 <h2>Brainstorming: Product/Market Fit</h2>
@@ -39,7 +39,7 @@ model called Product/Market Fit. We attempt through this model to identify
 our customer segment's jobs, pains, and gains, then match them with a product 
 that corrosponds to them.</p>
 
-<p>For more information on the Product/Market Fit, <a href="https://www.youtube.com/watch?v=sSDvwQiPtgc">here's</a> a short video.</p>
+<p>For more information on the Product/Market Fit, <a href="https://www.youtube.com/watch?v=sSDvwQiPtgc" target="_blank">here's</a> a short video.</p>
 <br>
 
 <h2>Verifying the Customer Segment: Conducting Interviews</h2>
@@ -51,7 +51,7 @@ various individuals that fit towards our demographic. These interviews will
 seek to identify what are the subjects' pains and gains and whether or not 
 our value proposition would address them.</p>
 
-<p>For more information on our interviews, consult our interviews <a href="https://github.com/Enigmamemory/Lock-et/tree/master/interviews">folder.</a></p>
+<p>For more information on our interviews, consult our interviews <a href="https://github.com/Enigmamemory/Lock-et/tree/master/interviews" target="_blank">folder.</a></p>
 <br>
 
 <h2>Current Value Proposition</h2>
@@ -68,6 +68,24 @@ both bike owners and bystanders that a bike is being stolen. This lock would be:
 <li>Low cost</li>
 <li>Good option for big cities and everyday commuters</li>
 </ul>
+<br>
+
+<h2>Present and Future: Where to Go From Here</h2>
+
+<p>Based on the data collected from our interviews, it seems that people are 
+not particularly interested in a smart connected bike lock. The prevailing 
+concern revolve around bike security, and as bike locks are often broken by 
+physical means, it's important to address the physical aspect of bike locks. 
+Those interviewed stated that they were willing to pay for more security, not 
+for smart device features for convenience offered by many smart bike locks 
+currently in the industry.</p>
+
+<p>It is possible that a smart bike lock does not garner enough interest and 
+demand to justify its production. Therefore, we need to look into alternatives 
+to solve this existing problem of bike security. Some ideas include a hidden 
+GPS tracking device and public smart locks. In any case, we will continue to 
+evaluate the customer segment and their reception to any possible value 
+proposition we may come up with in the future.</p>
 
 </body>
 
