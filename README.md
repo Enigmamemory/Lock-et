@@ -16,9 +16,13 @@ bike security</p>
 <b>Members, from left to right:</b>
 
  <i>Albert Chang</i> </li>
- <i>Joseph Bentivegna</i> </li>
+ <br>
+ <i>Joseph Bentivegna</i> </li> 
+ <br>
  <i>Andy Qiu</i> </li>
+ <br>
  <i>Alex Hu</i> </li>
+ <br>
 
 <br>
 
