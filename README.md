@@ -4,6 +4,6 @@
 </head>
 
 <body>
-<b1><center>Lock-et: Bike Security</center></b1>
+<h1><center>Lock-et: Bike Security</center></h1>
 
 </body>
