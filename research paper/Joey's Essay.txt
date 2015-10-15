@@ -1,10 +1,37 @@
 Smart Bicycle Lock
+
 Summary
-	Bicycles provide a very important means of transportation for Americans in big cities.  Itís estimated that more than 500,000 New Yorkers use a bike at least once a month.  Unfortunately, bikes are a very common target for theft.  Current reasonably priced bike locks simply use mechanical elements to attach a bike to a fixed point (i.e. bike rack or street sign). This often allows the lock to simply be cut, or for certain detachable elements (i.e. seat or tires) to be stolen, making the bike unusable. A bike lock that uses an electrical connection would allow for stronger security and communication with a smart device. 
+
+	Bicycles provide a very important means of transportation for Americans in big cities.  It‚Äôs estimated 
+that more than 500,000 New Yorkers use a bike at least once a month.  Unfortunately, bikes are a very common 
+target for theft.  Current reasonably priced bike locks simply use mechanical elements to attach a bike to a 
+fixed point (i.e. bike rack or street sign). This often allows the lock to simply be cut, or for certain detachable 
+elements (i.e. seat or tires) to be stolen, making the bike unusable. A bike lock that uses an electrical connection 
+would allow for stronger security and communication with a smart device. 
+
 Technology
-	Currently, the cheapest bike locks use metals like steel in conjunction with a crossbar that can be unlocked with a key (See: http://goo.gl/Z8vk6Q).  These ìU-locksî have decent success for securing the frame, and sometimes the back tire, of the bike to a fixed point.
- One step up from the ìU-lockî is thick cable lock, which is often about 6ft of heavy-duty braided steel or carbon fiber.  Combination locks appear to be the standard locking mechanism for theses (See: http://goo.gl/G4a4MP).   Cable locks are more successful at securing the extremities of the bike, but can also be more easily cut.  These two locks are the most common among low-middle class bike users and both provide decent locking techniques. 
-In terms of adding smart technology to bicycle locks, the only current options are incredibly expensive, sometimes even more expensive than the bike itself. This bike lock (http://www.skylock.cc/) has options to remotely unlock the bike, alert people if youíve been in a crash, and even alert you if your bike shakes.  While these features are nice, the lock is still designed in the ìU-lockî shape, meaning that many problems still apply. 
-Constraints of the current technology include price and functionality. People who ride bikes in the city often do not have the ability to spend $150+ on a fancy lock.  But this becomes problematic because they also donít want to compromise the security of their bike because they donít want to have to buy a new one.  
+
+	Currently, the cheapest bike locks use metals like steel in conjunction with a crossbar that can be unlocked 
+with a key (See: http://goo.gl/Z8vk6Q).  These ‚ÄúU-locks‚Äù have decent success for securing the frame, and sometimes 
+the back tire, of the bike to a fixed point.
+	One step up from the ‚ÄúU-lock‚Äù is thick cable lock, which is often about 6ft of heavy-duty braided steel or 
+carbon fiber.  Combination locks appear to be the standard locking mechanism for theses (See: http://goo.gl/G4a4MP).   
+Cable locks are more successful at securing the extremities of the bike, but can also be more easily cut.  These two 
+locks are the most common among low-middle class bike users and both provide decent locking techniques. 
+	In terms of adding smart technology to bicycle locks, the only current options are incredibly expensive, 
+sometimes even more expensive than the bike itself. This bike lock (http://www.skylock.cc/) has options to remotely 
+unlock the bike, alert people if you‚Äôve been in a crash, and even alert you if your bike shakes.  While these features 
+are nice, the lock is still designed in the ‚ÄúU-lock‚Äù shape, meaning that many problems still apply. 
+	Constraints of the current technology include price and functionality. People who ride bikes in the city often 
+do not have the ability to spend $150+ on a fancy lock.  But this becomes problematic because they also don‚Äôt want to
+compromise the security of their bike because they don‚Äôt want to have to buy a new one.  
+
 My Pitch
-	A cable bike lock with integrated smart technology will allow for both affordability and security.   The current cable lock is made of a hardened steel core that is threaded together and then covered in a plastic coating.  Our project will use this same principle but have a small copper wire running through the center of the cable.  The idea is that when the lock is locked, an electrical connection will be completed through the cable.  Then, if the cable is cut, the electrical connection will be broken and will not only set off an alarm but will alert the owner of the bike via text message.  We will talk to bike owners and see if they would be receptive to purchasing and using this new bike lock.  
+
+	A cable bike lock with integrated smart technology will allow for both affordability and security.   The 
+current cable lock is made of a hardened steel core that is threaded together and then covered in a plastic coating.  
+Our project will use this same principle but have a small copper wire running through the center of the cable.  The 
+idea is that when the lock is locked, an electrical connection will be completed through the cable.  Then, if the cable 
+is cut, the electrical connection will be broken and will not only set off an alarm but will alert the owner of the bike 
+via text message.  We will talk to bike owners and see if they would be receptive to purchasing and using this new bike 
+lock.  
