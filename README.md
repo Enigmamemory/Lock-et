@@ -53,7 +53,7 @@ various individuals that fit towards our demographic. These interviews will
 seek to identify what are the subjects' pains and gains and whether or not 
 our value proposition would address them.</p>
 
-<p>For more information on our interviews, check out our interviews <a href="https://github.com/Enigmamemory/Lock-et/tree/master/interviews"folder.</a></p>
+<p>For more information on our interviews, check out our interviews <a href="https://github.com/Enigmamemory/Lock-et/tree/master/interviews">folder.</a></p>
 <br>
 
 
