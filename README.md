@@ -3,7 +3,7 @@
 <h1>Lock-et: Bike Security</h1>
 <br>
 
-<h2>Summary</h2>
+<h2>Goal and Members</h2>
 
 <p>As the use of bikes take off in various cities in the US, bike theft becomes 
 more and more of a prominant issue. Lock-et will try to design a smart 
@@ -24,6 +24,12 @@ bike security</p>
 
 </ul>
 <br>
+
+<h2>Information Gathering: Becoming Knowledgable</h2>
+
+<p>First things first, we must gain sufficient knowledge on the problem we're 
+trying to tackle ourselves. We spend a week or so learning about bikes and bike 
+security. For our results, check our research paper <a href="https://github.com/Enigmamemory/Lock-et/tree/master/research%20paper">folder.</a>
 
 <h2>Brainstorming: Product/Market Fit</h2>
 
