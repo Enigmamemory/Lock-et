@@ -23,7 +23,8 @@ sometimes even more expensive than the bike itself. This bike lock (http://www.s
 unlock the bike, alert people if you’ve been in a crash, and even alert you if your bike shakes.  While these features 
 are nice, the lock is still designed in the “U-lock” shape, meaning that many problems still apply. 
 	Constraints of the current technology include price and functionality. People who ride bikes in the city often 
-do not have the ability to spend $150+ on a fancy lock.  But this becomes problematic because they also don’t want to compromise the security of their bike because they don’t want to have to buy a new one.  
+do not have the ability to spend $150+ on a fancy lock.  But this becomes problematic because they also don’t want to
+compromise the security of their bike because they don’t want to have to buy a new one.  
 
 My Pitch
 
